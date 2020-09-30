@@ -1,0 +1,23 @@
+h1{
+	text-align: center;
+}
+
+.centrer {
+	margin-left: 42%;
+
+}
+#search {
+	position: fixed;
+    left: 66%;
+    top: 8%;
+}
+
+.nom{
+	padding-left: 12%;
+}
+.action{
+	padding-left: 23%;
+}
+.edition{
+	padding-left: 30%;
+}
